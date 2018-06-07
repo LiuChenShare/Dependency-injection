@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <window>MacWindow</window>
+  <button>MacButton</button>
+  <textBox>MacTextBox</textBox>
+  <message>这个是在Config.xml文件中的错误信息</message>
+  <action>
+    <message>这个是在Config.xml文件中的第二个错误信息</message>
+    <message>这个是在Config.xml文件中的第三个错误信息</message>
+    <message>
+      <message>这个是在Config.xml文件中的第四个错误信息</message>
+      <message>这个是在Config.xml文件中的第五个错误信息</message>
+    </message>
+  </action>
+</config>

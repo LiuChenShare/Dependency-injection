@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp1_1", "ConsoleApp1_1\1-ConsoleApp1_1.csproj", "{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "依赖注入那些事儿（1）", "依赖注入那些事儿（1）", "{5A12B400-71C6-45BF-9904-D380E4B4244D}"
+	ProjectSection(SolutionItems) = preProject
+		1-TextFile1.txt = 1-TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0o说明o0", "0o说明o0", "{49965470-8AA1-46B0-930A-BE1ADAF91DE1}"
+	ProjectSection(SolutionItems) = preProject
+		1.世界起源.txt = 1.世界起源.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp1_2", "ConsoleApp1_2\1-ConsoleApp1_2.csproj", "{0429E655-4720-4EDC-89D5-CB18CCBE5879}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "依赖注入那些事儿（2）", "依赖注入那些事儿（2）", "{A2FC8A59-B34A-447F-92A0-E0573A68E67C}"
+	ProjectSection(SolutionItems) = preProject
+		1-TextFile2.txt = 1-TextFile2.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp2_1", "ConsoleApp2_1\1-ConsoleApp2_1.csproj", "{B73FA260-E5FE-4FEB-909E-201862E32F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp2_2", "ConsoleApp2_2\1-ConsoleApp2_2.csproj", "{24730019-D65E-444F-BDFC-23ECE85C3F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp2_3", "ConsoleApp2_3\1-ConsoleApp2_3.csproj", "{D8D489AB-702F-4145-AE6D-8FEF07E5D184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleApp2_4", "ConsoleApp2_4\1-ConsoleApp2_4.csproj", "{E31C5F94-9B92-46C6-A043-EAC2DF596143}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2。IOC容器Autofac系列", "2。IOC容器Autofac系列", "{34AD0BA8-B250-4D93-B242-EFB6DA1FDC27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1。依赖注入那些事儿", "1。依赖注入那些事儿", "{5501C14D-8A5A-41F4-A645-6CBCC49BE852}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC容器Autofac系列（1）-- 初窥", "IOC容器Autofac系列（1）-- 初窥", "{7B9E96A6-9580-4F0E-9D72-29E9511663EB}"
+	ProjectSection(SolutionItems) = preProject
+		2-TextFile1.txt = 2-TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ConsoleApp1_1", "2-ConsoleApp1_1\2-ConsoleApp1_1.csproj", "{0549696B-C5C7-4753-B2E1-EBAB57C9A68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ConsoleApp1_2", "2-ConsoleApp1_2\2-ConsoleApp1_2.csproj", "{4472E083-1CC1-4045-B960-F1F61D781BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0429E655-4720-4EDC-89D5-CB18CCBE5879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0429E655-4720-4EDC-89D5-CB18CCBE5879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0429E655-4720-4EDC-89D5-CB18CCBE5879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0429E655-4720-4EDC-89D5-CB18CCBE5879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73FA260-E5FE-4FEB-909E-201862E32F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73FA260-E5FE-4FEB-909E-201862E32F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73FA260-E5FE-4FEB-909E-201862E32F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73FA260-E5FE-4FEB-909E-201862E32F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24730019-D65E-444F-BDFC-23ECE85C3F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24730019-D65E-444F-BDFC-23ECE85C3F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24730019-D65E-444F-BDFC-23ECE85C3F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24730019-D65E-444F-BDFC-23ECE85C3F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D489AB-702F-4145-AE6D-8FEF07E5D184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D489AB-702F-4145-AE6D-8FEF07E5D184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D489AB-702F-4145-AE6D-8FEF07E5D184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D489AB-702F-4145-AE6D-8FEF07E5D184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31C5F94-9B92-46C6-A043-EAC2DF596143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31C5F94-9B92-46C6-A043-EAC2DF596143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31C5F94-9B92-46C6-A043-EAC2DF596143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31C5F94-9B92-46C6-A043-EAC2DF596143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0549696B-C5C7-4753-B2E1-EBAB57C9A68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0549696B-C5C7-4753-B2E1-EBAB57C9A68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0549696B-C5C7-4753-B2E1-EBAB57C9A68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0549696B-C5C7-4753-B2E1-EBAB57C9A68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4472E083-1CC1-4045-B960-F1F61D781BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4472E083-1CC1-4045-B960-F1F61D781BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4472E083-1CC1-4045-B960-F1F61D781BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4472E083-1CC1-4045-B960-F1F61D781BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B33FE41-09F7-4EA8-A6A4-157C46D09F5F} = {5A12B400-71C6-45BF-9904-D380E4B4244D}
+		{5A12B400-71C6-45BF-9904-D380E4B4244D} = {5501C14D-8A5A-41F4-A645-6CBCC49BE852}
+		{0429E655-4720-4EDC-89D5-CB18CCBE5879} = {5A12B400-71C6-45BF-9904-D380E4B4244D}
+		{A2FC8A59-B34A-447F-92A0-E0573A68E67C} = {5501C14D-8A5A-41F4-A645-6CBCC49BE852}
+		{B73FA260-E5FE-4FEB-909E-201862E32F48} = {A2FC8A59-B34A-447F-92A0-E0573A68E67C}
+		{24730019-D65E-444F-BDFC-23ECE85C3F24} = {A2FC8A59-B34A-447F-92A0-E0573A68E67C}
+		{D8D489AB-702F-4145-AE6D-8FEF07E5D184} = {A2FC8A59-B34A-447F-92A0-E0573A68E67C}
+		{E31C5F94-9B92-46C6-A043-EAC2DF596143} = {A2FC8A59-B34A-447F-92A0-E0573A68E67C}
+		{7B9E96A6-9580-4F0E-9D72-29E9511663EB} = {34AD0BA8-B250-4D93-B242-EFB6DA1FDC27}
+		{0549696B-C5C7-4753-B2E1-EBAB57C9A68B} = {7B9E96A6-9580-4F0E-9D72-29E9511663EB}
+		{4472E083-1CC1-4045-B960-F1F61D781BF6} = {7B9E96A6-9580-4F0E-9D72-29E9511663EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D393E849-1BB5-465C-8AED-45FE028D1E65}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.exe.config
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.exe
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\bin\Debug\ConsoleApp2_2.pdb
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.csprojResolveAssemblyReference.cache
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.csproj.CoreCompileInputs.cache
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.exe
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ConsoleApp2_2\obj\Debug\ConsoleApp2_2.pdb

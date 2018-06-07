@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\bin\Debug\ConsoleApp1_1.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\依赖注入那些事儿\ConsoleApp1_1\obj\Debug\ConsoleApp1_1.pdb

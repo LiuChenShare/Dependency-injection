@@ -1,0 +1,5 @@
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\学习无止境\依赖注入那些事儿\依赖注入那些事儿\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
